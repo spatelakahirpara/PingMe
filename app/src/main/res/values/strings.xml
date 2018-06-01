@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PingMe</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="logout">logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="request_page">request page</string>
+    <string name="hi_there_i_m_using_pingme">Hi there, I\'m using PingMe</string>
+    <string name="default_status">Hi there, I\'m using PingMe</string>
+</resources>

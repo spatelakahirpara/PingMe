@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "772247549286",
+    "firebase_url": "https://pingme-5740a.firebaseio.com",
+    "project_id": "pingme-5740a",
+    "storage_bucket": "pingme-5740a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772247549286:android:7b2aa1f150905837",
+        "android_client_info": {
+          "package_name": "com.example.shrutihirpara.pingme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772247549286-kko7vqvur4b2grsokh6g1unndb7pl8ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shrutihirpara.pingme",
+            "certificate_hash": "50a676a299cf769c00ca9ae1cee65e39936af208"
+          }
+        },
+        {
+          "client_id": "772247549286-ibgf5ckk9e1pn3diehhoi1cpmc2e8p14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-v4t216zzg7Hc91VqhqmElsM4FNAGbkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772247549286-ibgf5ckk9e1pn3diehhoi1cpmc2e8p14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
